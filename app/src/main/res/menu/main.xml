@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_refresh" android:orderInCategory="100" android:title="刷新" />
+    <item android:id="@+id/action_mkquery" android:orderInCategory="100" android:title="查询密码(万能钥匙)" />
+    <item android:id="@+id/action_qhquery" android:orderInCategory="100" android:title="查询密码(360)" />
+    <item android:id="@+id/action_about" android:orderInCategory="100" android:title="关于" />
+</menu>
